@@ -1,0 +1,71 @@
+{
+    "single":{
+        "id":55,
+        "buildingId":645,
+        "name":"Test Floor",
+        "coordinates":[
+            {
+                "coordinates":[
+                    [
+                        "43.1",
+                        "31.7"
+                    ],
+                    [
+                        "43.1",
+                        "462.8"
+                    ],
+                    [
+                        "783.4",
+                        "462.8"
+                    ],
+                    [
+                        "783.4",
+                        "31.7"
+                    ]
+                ],
+                "center":["123", "456"]
+            }
+        ],
+        "order":0,
+        "main":0,
+        "updated":1365424839,
+        "registered":1364818138
+    },
+    "list":{
+        "55":{
+            "id":55,
+            "buildingId":645,
+            "name":"Test Floor",
+            "coordinates":[
+                {
+                    "coordinates":[
+                        [
+                            "43.1",
+                            "31.7"
+                        ],
+                        [
+                            "43.1",
+                            "462.8"
+                        ],
+                        [
+                            "783.4",
+                            "462.8"
+                        ],
+                        [
+                            "783.4",
+                            "31.7"
+                        ]
+                    ],
+                    "center":""
+                }
+            ],
+            "order":0,
+            "main":0,
+            "updated":1365424839,
+            "registered":1364818138
+        }
+    },
+    "info":{
+        "lastmodifed":"Mon, 08 Apr 2013 12:40:39 GMT"
+    }
+}

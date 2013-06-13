@@ -1,0 +1,57 @@
+{
+    "single":{
+        "id":645,
+        "facilityId":777,
+        "name":"Test Building",
+        "address":[
+            "Nygårdsgaten 112",
+            "Bergen",
+            "5008",
+            "Norway"
+        ],
+        "location":[
+            60.38426,
+            5.33299
+        ],
+        "position":[
+            60.38457,
+            5.33367
+        ],
+        "overlay":[
+            "i|poJisp_@~@k@e@kB{@TCs@lAOv@dCT]Ll@}@jA_Ah@"
+        ],
+        "updated":1364945528,
+        "registered":1364818138,
+        "floors":2
+    },
+    "list":{
+        "645":{
+            "id":645,
+            "facilityId":777,
+            "name":"Test Building",
+            "address":[
+                "Nyg\u00e5rdsgaten 112",
+                "Bergen",
+                "5008",
+                "Norway"
+            ],
+            "location":[
+                60.38426,
+                5.33299
+            ],
+            "position":[
+                60.38457,
+                5.33367
+            ],
+            "overlay":[
+                "i|poJisp_@~@k@e@kB{@TCs@lAOv@dCT]Ll@}@jA_Ah@"
+            ],
+            "updated":1364945528,
+            "registered":1364818138,
+            "floors":2
+        }
+    },
+    "info":{
+        "lastmodifed":"Tue, 02 Apr 2013 23:32:08 GMT"
+    }
+}
